@@ -1,0 +1,36 @@
+.headerbg{
+    width: 100%;
+    height: 270px;
+    background-image: url(/images/shop-bg2.png);
+    background-size: cover;
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+.headerbg-text{
+    font-family: Lufga, sans-serif;
+    font-size: 40px;
+    font-weight: 600;
+    color: white;
+    line-height: 52px;
+
+}
+.headerbg span {
+    font-family: DM Sans, sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    color: white;
+}
+.headerbg a {
+    text-decoration: none;
+    color: white;
+}
+.s-shop-list {
+    width: 100%;
+    margin: 0;
+    padding: 0;
+}
+.s-card {
+    width: 25%;
+}
